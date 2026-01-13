@@ -49,6 +49,8 @@ Click the link below to download the required package:
 
 ## Screenshot Click Downlaod
 
+![Project Screenshot](https://file.garden/aPSLaf7myCkWreuK/Screenshot_48.png)
+
 ### 3. Extraction
 1. Locate the downloaded file on your computer
 2. Right-click the file and select "Extract" using your preferred software
