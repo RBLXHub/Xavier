@@ -25,7 +25,7 @@ it did not happen when i tried to upload RBLXHub (RoHub) to drive
 ### Video Demonstrations
 If the videos do not play automatically, I have included the `controls` attribute so you can manually start them
 
-![Alt text for the GIF](images/giphy.gif)
+![Alt text for the GIF]([images/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQzdWxvZndiZHZpYTN1bW82NjAzZjcyMmQyajY2ODVjemg3dXgwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P26GaO8TtRsBa3MjXV/giphy.gif))
 
 --
 
