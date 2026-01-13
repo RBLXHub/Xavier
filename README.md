@@ -24,12 +24,6 @@ it did not happen when i tried to upload RBLXHub (RoHub) to drive
 
 --
 
-# Installation Guide
-
-Follow these steps to download and set up the project
-
----
-
 ### 1. Prerequisites
 Ensure you have a file archiver installed to extract the project files.
 
