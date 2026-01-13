@@ -1,9 +1,17 @@
 # CREPPER1323 RBLXHUB
 How to know if you're lucky in developer crepper1323_new!
-# Features v1.0.0 soon
-- [x] Fixed Developer Scripts
-- [x] Rejoin is old RBLXHUB works scripts
-- [x] Chat you new fixed old
+Features (v1.0.0)
+We have focused on stability and restoring legacy features that users love.
+Fixed Developer Scripts
+Core developer tools have been patched to work with current API levels.
+Removed patched/broken functions for a smoother experience.
+RBLXHUB Rejoin Support
+The classic "Rejoin" feature is back and fully functional.
+Legacy scripts from the original hub are now supported again.
+Resored Legacy Chat
+Fixed the Legacy chat
+
+Bypasses the new chat UI to provide the classic text communication experience.
 # Virus
 is this a virüs?, 
 its not virüs you şit!!, 
