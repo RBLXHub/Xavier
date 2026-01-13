@@ -37,23 +37,8 @@ To allow other users to connect to your webserver and join your game, you have t
     
     ![Public Address Example](https://file.garden/aNTqSg4ZkRNIiewL/g%C3%B6rsel_2025-10-17_173903179.png)
 
-### Option 2: Radmin VPN (Experimental/Known Issues)
-
-*Note: This method is currently marked as unreliable*
-
-1.  Download [Radmin VPN](https://download.radmin-vpn.com/download/files/Radmin_VPN_2.0.4899.9.exe)
-2.  When you completed the setup
-3.  Click on **Create Network**
-4.  Put the name of the network and set the password to `Radmin0`
-    * *If you want a diffrent password please put the password to the hosting channel otherwise we cant play with you*
-5.  Click Create
-6.  Copy the ip where the [yellow highlight](https://file.garden/aNTqSg4ZkRNIiewL/görsel_2025-10-17_174717169.png) pointing to
-7.  You need to put the port `53640` in the hosting channel because the ip is redirecting you to 127.0.0.1
-
 ### Verification
 You might want to test if the hosting application actually works. If it works, congratulations! Now you can share the address or ip you copied to the **#hosting-channel** so we can join your game. Make sure you specify what client you are hosting on
-
----
 
 ## How to Join
 
@@ -68,18 +53,24 @@ To join someone else's host, go to the **#hosting-channel** and look for the con
     * Select the client (like 2019M) on the list
 3.  **Connect:** Click the join button
 
-<img width="1000" alt="Hyperlib logo" src="https://media.discordapp.net/attachments/1350816458560639047/1424391570509135974/image.png?ex=68edaac6&is=68ec5946&hm=b579531f50f727edef90869edac2fe8544aa1d6e287a7481a429a258fb1e6d1e&=&format=webp&quality=lossless&width=1273&height=72">
+## ⚠️ Important Installation Steps
 
-so yeah if you think its virus, you are a nina dat no know how these programs actually work (The Launcher is compiled by me, but windows defender deletes it, so, o you want proof of me compiling the program?? here)
+**Before downloading, you must set up an exclusion**
 
-<img width="1000" alt="Hyperlib logo" src="https://media.discordapp.net/attachments/1258532800739545223/1427122945284767894/Screenshot_2025-10-13_072734.png?ex=68edb750&is=68ec65d0&hm=a30728d9ef566ad32a6a6727d7b46c1b5cb19444e2e55792f9d16dd0842b70fd&=&format=webp&quality=lossless&width=677&height=539">
+1. Create a new folder on your computer
+2. Open your antivirus software and go to **Exclusions**
+3. Add the folder you just created
+4. Apply the changes
+*(Search "how to add exclusions in [your antivirus name]" if you need help)*
 
-click right now menu
+**Why is this required?**
+The download contains files that trigger false positives:
+* **Unsigned Clients** (patched by local_rcc for semi-modern clients)
+* **AutoIt Launcher** (compiled by me)
 
-<img width="1000" alt="Hyperlib logo" src="https://media.discordapp.net/attachments/1258532800739545223/1427122945821769840/Screenshot_2025-10-13_072954.png?ex=68edb750&is=68ec65d0&hm=101c2d6711cee51112810c72046140035346457d302fd64bd88bbb6f8a3bbc52&=&format=webp&quality=lossless&width=656&height=539">
+If you do not add the exclusion, your antivirus will likely flag these programs
 
-check my note no removed
-
-<img width="1000" alt="Hyperlib logo" src="https://media.discordapp.net/attachments/1258532800739545223/1427122946341605507/Screenshot_2025-10-13_073456.png?ex=68edb751&is=68ec65d1&hm=8d35a7004315d8d6f78bb96624b92fb6ab7686f56ca58e65c6665d37364feabf&=&format=webp&quality=lossless&width=524&height=539">
+**Transparency:**
+If you are concerned about the launcher, I have provided the source code so you can verify it yourself
 
 x64 in x32 click now done virus??
