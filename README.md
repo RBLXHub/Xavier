@@ -1,17 +1,12 @@
 # CREPPER1323 RBLXHUB
 How to know if you're lucky in developer crepper1323_new!
 
-# Features (v1.0.0)
-We have focused on stability and restoring legacy features that users love.
-Fixed Developer Scripts
-Core developer tools have been patched to work with current API levels.
-Removed patched/broken functions for a smoother experience.
-RBLXHUB Rejoin Support
-The classic "Rejoin" feature is back and fully functional.
-Legacy scripts from the original hub are now supported again.
-Resored Legacy Chat
-Fixed the Legacy chat
-Bypasses the new chat UI to provide the classic text communication experience.
+## Features
+
+* **FE Bypass Simulation:** Replicates legacy non-filtering behavior for testing purposes.
+* **Desktop Optimized:** Tuned specifically for PC executors (Synapse, Script-Ware, Krnl).
+* **Universal Compatibility:** Designed to work across various games (R6/R15 support).
+* **2022M Architecture:** Built using the 2022 Modified standards for maximum stability on current patch versions.
 
 # Virus
 is this a virüs?, 
