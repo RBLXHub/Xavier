@@ -3,10 +3,10 @@ How to know if you're lucky in developer crepper1323_new!
 
 ## Features
 
-* **FE Bypass Simulation:** Replicates legacy non-filtering behavior for testing purposes.
-* **Desktop Optimized:** Tuned specifically for PC executors (Synapse, Script-Ware, Krnl).
-* **Universal Compatibility:** Designed to work across various games (R6/R15 support).
-* **2022M Architecture:** Built using the 2022 Modified standards for maximum stability on current patch versions.
+* **Client-Side Manipulation:** Advanced handling of local events, physics, and visual rendering
+* **Desktop Optimized:** Tuned specifically for standard PC execution environments
+* **Universal Compatibility:** Designed to work across various games (R6/R15 support)
+* **2022M Architecture:** Built using the 2022 Modified standards for maximum stability on current patch versions
 
 # Virus
 is this a virüs?, 
