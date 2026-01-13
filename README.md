@@ -33,7 +33,8 @@ To allow other users to connect to your webserver and join your game, you have t
     5.  Select **TCP+UDP (protocol)**.
     6.  Set **Local Port** to `53640` and click **Add tunnel**.
 3.  **Important:** Ensure your playit.gg application is **RUNNING** on your PC, otherwise it will not work.
-4.  Click the Address in [Public Address](https://file.garden/aNTqSg4ZkRNIiewL/görsel_2025-10-17_173903179.png) and copy it.
+
+![Public Address Example](https://file.garden/aNTqSg4ZkRNIiewL/g%C3%B6rsel_2025-10-17_173903179.png)
 
 ### Option 2: Radmin VPN (Experimental/Known Issues)
 
