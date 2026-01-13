@@ -32,7 +32,7 @@ Ensure you have a file archiver installed to extract the project files.
 
 Note: If you are using Windows 11, you may use the built-in zip viewer, though installing 7-zip or WinRAR is optional but recommended
 
----
+--
 
 ### 2. Download the Files
 Click the link below to download the required package:
@@ -41,7 +41,7 @@ Click the link below to download the required package:
 
 --
 
-## Screenshot Click Downlaod
+## How to you download nina
 
 ![Project Screenshot](https://file.garden/aPSLaf7myCkWreuK/Screenshot_48.png)
 
