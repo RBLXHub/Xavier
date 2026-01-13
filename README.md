@@ -20,52 +20,53 @@ it did not happen when i tried to upload RBLXHub (RoHub) to drive
 
 ## Hosting Your Own Game
 
-To allow other users to connect to your webserver and join your game, you have two options.
+To allow other users to connect to your webserver and join your game, you have two options
 
 ### Option 1: playit.gg (Recommended)
 
-1.  Create a new account by clicking [this link](https://playit.gg/setup) and follow the official tutorial.
-2.  Once you have successfully set up the agent:
-    1.  Go to your agent dashboard.
-    2.  Click **Add Tunnel**.
-    3.  In "Tunnel Type" select **Something Random**.
-    4.  Click "Yes, I will not host malware".
-    5.  Select **TCP+UDP (protocol)**.
-    6.  Set **Local Port** to `53640` and click **Add tunnel**.
-3.  **Important:** Ensure your playit.gg application is **RUNNING** on your PC, otherwise it will not work.
-
-![Public Address Example](https://file.garden/aNTqSg4ZkRNIiewL/g%C3%B6rsel_2025-10-17_173903179.png)
+1.  Create a new account by clicking [this link](https://playit.gg/setup) and follow the official tutorial
+2.  If you successfully setup the agent
+    1.  Go to your agent
+    2.  Click Add Tunnel
+    3.  In "Tunnel Type" select **Something Random**
+    4.  Click "Yes, i will not host malware"
+    5.  Select **TCP+UDP (protocol)** in tunnel type
+    6.  Set **Local Port** to `53640` and click Add tunnel
+3.  **Important:** Make sure your playit.gg Application is RUNNING on your pc, otherwise it will not work
+4.  Click The Address in "Public Address" (as shown below) and click copy
+    
+    ![Public Address Example](https://file.garden/aNTqSg4ZkRNIiewL/g%C3%B6rsel_2025-10-17_173903179.png)
 
 ### Option 2: Radmin VPN (Experimental/Known Issues)
 
-*Note: This method is currently marked as unreliable.*
+*Note: This method is currently marked as unreliable*
 
-1.  Download [Radmin VPN](https://download.radmin-vpn.com/download/files/Radmin_VPN_2.0.4899.9.exe).
-2.  Complete the setup.
-3.  Click on **Create Network**.
-4.  Set the network name and set the password to `Radmin0`.
-    * *If you want a different password, please specify it in the hosting channel, otherwise others cannot join.*
-5.  Click Create.
-6.  Copy the IP where the [yellow highlight](https://file.garden/aNTqSg4ZkRNIiewL/görsel_2025-10-17_174717169.png) is pointing.
-7.  You must specify port `53640` when sharing, because the IP redirects to localhost (127.0.0.1).
+1.  Download [Radmin VPN](https://download.radmin-vpn.com/download/files/Radmin_VPN_2.0.4899.9.exe)
+2.  When you completed the setup
+3.  Click on **Create Network**
+4.  Put the name of the network and set the password to `Radmin0`
+    * *If you want a diffrent password please put the password to the hosting channel otherwise we cant play with you*
+5.  Click Create
+6.  Copy the ip where the [yellow highlight](https://file.garden/aNTqSg4ZkRNIiewL/görsel_2025-10-17_174717169.png) pointing to
+7.  You need to put the port `53640` in the hosting channel because the ip is redirecting you to 127.0.0.1
 
 ### Verification
-You might want to test if the hosting application actually works. If it works, congratulations! Now you can share the address or IP you copied to the **#hosting-channel** so others can join your game. Make sure you specify what client you are hosting on.
+You might want to test if the hosting application actually works. If it works, congratulations! Now you can share the address or ip you copied to the **#hosting-channel** so we can join your game. Make sure you specify what client you are hosting on
 
 ---
 
 ## How to Join
 
-To join someone else's host, go to the **#hosting-channel** and look for the connection details.
+To join someone else's host, go to the **#hosting-channel** and look for the connection details
 
 1.  **Identify the details:**
-    * **IP:** The IPv4 address for your launcher.
-    * **Port:** The connection port.
-    * **Client:** The version required (Refer to this [Client List](https://file.garden/aNTqSg4ZkRNIiewL/görsel_2025-10-17_175627540.png)).
+    * **ip:** IPv4 on your launcher
+    * **port:** Port, yeah
+    * **client:** The version required (Refer to this [Client List](https://file.garden/aNTqSg4ZkRNIiewL/görsel_2025-10-17_175627540.png))
 2.  **Configure the Launcher:**
-    * Copy the IP and Port into the "Join" Page of the launcher.
-    * Select the correct client (e.g., 2019M) from the list.
-3.  **Connect:** Click the join button to start.
+    * Copy the ip and port into the "Join" Page of the launcher
+    * Select the client (like 2019M) on the list
+3.  **Connect:** Click the join button
 
 <img width="1000" alt="Hyperlib logo" src="https://media.discordapp.net/attachments/1350816458560639047/1424391570509135974/image.png?ex=68edaac6&is=68ec5946&hm=b579531f50f727edef90869edac2fe8544aa1d6e287a7481a429a258fb1e6d1e&=&format=webp&quality=lossless&width=1273&height=72">
 
